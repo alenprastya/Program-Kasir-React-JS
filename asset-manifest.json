@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kasir/static/css/main.093ede36.chunk.css",
+    "main.js": "/kasir/static/js/main.5100e364.chunk.js",
+    "main.js.map": "/kasir/static/js/main.5100e364.chunk.js.map",
+    "runtime-main.js": "/kasir/static/js/runtime-main.96f32f0c.js",
+    "runtime-main.js.map": "/kasir/static/js/runtime-main.96f32f0c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/kasir/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5af6d95f.chunk.js": "/kasir/static/js/2.5af6d95f.chunk.js",
+    "static/js/2.5af6d95f.chunk.js.map": "/kasir/static/js/2.5af6d95f.chunk.js.map",
+    "static/js/3.ac2d0c2a.chunk.js": "/kasir/static/js/3.ac2d0c2a.chunk.js",
+    "static/js/3.ac2d0c2a.chunk.js.map": "/kasir/static/js/3.ac2d0c2a.chunk.js.map",
+    "index.html": "/kasir/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/kasir/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.093ede36.chunk.css.map": "/kasir/static/css/main.093ede36.chunk.css.map",
+    "static/js/2.5af6d95f.chunk.js.LICENSE.txt": "/kasir/static/js/2.5af6d95f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96f32f0c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5af6d95f.chunk.js",
+    "static/css/main.093ede36.chunk.css",
+    "static/js/main.5100e364.chunk.js"
+  ]
+}
